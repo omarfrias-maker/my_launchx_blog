@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de Omar Frias"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
