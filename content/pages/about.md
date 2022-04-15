@@ -5,17 +5,12 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quién soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+>. Tengo 45 años, estudié la licenciatura en Banca y Finanzas, trabajé mucho tiempo en el secrtor financiero
+> en casa de bolsa, tesorerías de Afore, Bancos, etc.
+> He sido empresario restaurantero y profesor de los niveles primaria, preparatoria y licenciatura por más de 10 años.
+> Desde la pandemia empecé con cursos de lógica computacional, así como de código.
+> Esta oportunidad es un reboot en mi vida y estoy muy emocionado.
